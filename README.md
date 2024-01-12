@@ -1,6 +1,11 @@
 # BankMagoya
 Example project demonstrating the use of Java and Spring-boot with Event Sourcing pattern with a MongoDB database
 
+## Run the System
+We can easily run the whole with only a single command:
+```bash
+docker compose up
+```
 ## Testing Postman
 
 
